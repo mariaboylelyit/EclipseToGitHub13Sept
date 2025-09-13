@@ -7,7 +7,7 @@
  * @version 1.0
 **/
 package ie.lyit.hotel;
-
+// MARIA MARIA MARIA
 public class Guest extends Person {// INHERITANCE - Customer IS-A Person
 	// Customer has name & phoneNumber from Person
 	private String emailAddress;    // AND emailAddress
