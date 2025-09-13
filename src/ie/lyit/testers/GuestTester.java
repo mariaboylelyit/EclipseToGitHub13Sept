@@ -12,7 +12,7 @@ import ie.lyit.hotel.Guest;
 import ie.lyit.hotel.Name;
 
 public class GuestTester {
-
+    // Hopefully MARIAS BRANCH WILL WORK
 	public static void main(String[] args) {
 		// Create a Guest object called g1
 		Guest g1 = new Guest();
